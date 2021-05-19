@@ -58,6 +58,7 @@ class YouTubeSubsCounter():
         print(" #Views:", views_count)
         print(" #Videos:", video_count)
         print("---")
+        print("Visit Channel|href=https://youtube.com/channel/{}".format(self.channel_id))
         print("View Source|href=https://github.com/theoctober19th/xbar-ytsubs")
         print("---")
         print("Author: Bikalpa Dhakal 2021")
