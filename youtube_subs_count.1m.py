@@ -58,7 +58,7 @@ class YouTubeSubsCounter():
         print(" #Views:", views_count)
         print(" #Videos:", video_count)
         print("---")
-        print("View Source|href=https://github.com/theoctober19th/xbarplugin-ytsubs")
+        print("View Source|href=https://github.com/theoctober19th/xbar-ytsubs")
         print("---")
         print("Author: Bikalpa Dhakal 2021")
 
